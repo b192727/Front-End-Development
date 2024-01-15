@@ -7,7 +7,7 @@
 }
 
 .body,html{
-    background:url(Assets/background-image.png);
+    background:url(background-image.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
